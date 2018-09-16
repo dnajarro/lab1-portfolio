@@ -1,0 +1,42 @@
+#my_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 541;
+  width: 30%;
+}
+
+#mail {
+    height: 5%;
+    width: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    padding: 20px;
+    background-color: grey;
+    text-align: left;
+    width: 30%;
+    display: block;
+}
+
+#footer {
+    bottom:0;
+    width:100%;
+    background-color: darkgrey;
+   
+}
+
+body {
+    background-color: lightblue;
+    font-family: helvetica;
+}
+
+#proj1 {
+    background-color: red;
+}
+
+div {
+  padding: 20px;
+}s
